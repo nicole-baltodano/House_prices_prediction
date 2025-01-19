@@ -1,5 +1,5 @@
 # House Price Prediction
-This repository contains two Jupyter notebook for the Kaggle House Price Prediction competition. It covers data preprocessing, feature engineering, model training using XGBoost and Deep Learning. Randomized Search was used to optimize the XGBoost model.
+This repository contains a Jupyter notebook and .py files for the Kaggle House Price Prediction competition. It covers data preprocessing, feature engineering and model training using XGBoost. Randomized Search was used to optimize the XGBoost model.
 
 
 # Description
