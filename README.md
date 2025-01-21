@@ -15,7 +15,7 @@ Submitted predictions got a  RMSLE score of 0.15 for XGBoost model.
 git clone git@github.com:nicole-baltodano/House_prices_prediction.git
 cd House_prices_prediction
 pip install -r requirements.txt
-
+```
 
 # Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for educational purposes in data science. It offers a modern and expanded alternative to the classic Boston Housing dataset.
